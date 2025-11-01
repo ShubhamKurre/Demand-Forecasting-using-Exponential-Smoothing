@@ -1,10 +1,5 @@
 # 📈 Demand Forecasting using Exponential Smoothing
 
-**Instructor:** Prof. Meenakshi Kumari  
-**Student:** Shubham Kurre (IIT Delhi)  
-**Date:** February 2025  
-**Case Study:** Forecasting Maruti Suzuki Sales (36 months → 4 months forecast)
-
 ---
 
 ## 🌟 Project Overview
